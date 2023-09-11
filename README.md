@@ -1,4 +1,4 @@
-<h1 align="center">Chatter - Building a Flutter Chat Application From Scratch</h1>
+<h1 align="center">Chat App - Building a Flutter Chat Application From Scratch</h1>
 
 <p align="center">
     <a href="https://pub.dev/packages/stream_chat_flutter_core"><img src="https://img.shields.io/pub/v/stream_chat_flutter_core?include_prereleases" alt="Pub"></a>
@@ -12,6 +12,3 @@
 Chatter is a demo application showing how to create a chat app from scratch using <a href="https://flutter.dev/">Flutter</a> and the <a href="https://pub.dev/packages/stream_chat_flutter_core/">Stream Chat Flutter Core package</a>.
 </br>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/13705472/160611526-5caf7e95-4377-4798-881b-7a6c6e932c6b.gif" />
-</p>
