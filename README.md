@@ -1,4 +1,4 @@
-<h1 align="center">Chat App - Building a Flutter Chat Application From Scratch</h1>
+<h1 align="center">Chatfree - Building a Flutter Chat Application From Scratch</h1>
 
 <p align="center">
     <a href="https://pub.dev/packages/stream_chat_flutter_core"><img src="https://img.shields.io/pub/v/stream_chat_flutter_core?include_prereleases" alt="Pub"></a>
